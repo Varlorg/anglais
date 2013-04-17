@@ -1,0 +1,23 @@
+In France, there is four main network operator. 
+Those operator are all private company that use 
+the France Telecom network wich is a french public company.
+The four main operator are Bouygues, Free Mobile, Orange and SFR.
+They enters into a business agreement with mobile virtual network
+operator (MVNO)
+(or mobile other licensed operator (MOLO) in the United Kingdom)
+to give away bulk access to their network.
+
+In order to cover the whole french territory, BTS come installed
+with an average of three antennas. Each antenna can manage 500
+frequency channels. That mean each BTS can manage 1500 frequency channel
+and can reach 35km. With only 3 frequency to communicate, BTS have no
+interference between their three antennas and between them and their
+congener as you can see on the figure below.
+
+However, those differents frequency channel prevent user's mobile
+phone from moving from a BTS area to another. That's the reason we
+invented the hand-over. It is an event that occur when the mobile
+station change area. The mobile prepare itself and switch frequency
+depending mainly on the quality of the transmission. The BTS can also
+ask for a hand over if he is overcrowded.
+
